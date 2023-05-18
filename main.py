@@ -1,5 +1,5 @@
 import time
-String = 'The fox rocks socks that have red polka dots.'
+String = 'The fox rocks socks that have red polka dots. The red polks dots makes the fox happy.'
 
 wordcount = len(String.split())
 
